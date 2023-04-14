@@ -1,4 +1,4 @@
-ARG REQUIRE="unzip wget gcc gcc-c++ glibc-devel gdal-devel libffi-devel openssl-devel rust cargo git proj proj-devel openblas lapack geos-devel python38 python38-pip"
+ARG REQUIRE="gcc gcc-c++ glibc-devel gdal-devel libffi-devel openssl-devel rust cargo git proj proj-devel openblas lapack geos-devel python38 python38-pip"
 ################################################################################################################
 ################################################################################################################
 ##### Create foundational level build stage with initial structure
